@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MCT_MovieReactApp/static/css/main.dd711ac8.css",
-    "main.js": "/MCT_MovieReactApp/static/js/main.fa08593b.js",
+    "main.js": "/MCT_MovieReactApp/static/js/main.bb7d7c88.js",
     "static/media/star.png": "/MCT_MovieReactApp/static/media/star.9cc43f07d215f0917af3.png",
     "static/media/logo.png": "/MCT_MovieReactApp/static/media/logo.b61b92a9bea924cd6fd3.png",
     "index.html": "/MCT_MovieReactApp/index.html",
     "main.dd711ac8.css.map": "/MCT_MovieReactApp/static/css/main.dd711ac8.css.map",
-    "main.fa08593b.js.map": "/MCT_MovieReactApp/static/js/main.fa08593b.js.map"
+    "main.bb7d7c88.js.map": "/MCT_MovieReactApp/static/js/main.bb7d7c88.js.map"
   },
   "entrypoints": [
     "static/css/main.dd711ac8.css",
-    "static/js/main.fa08593b.js"
+    "static/js/main.bb7d7c88.js"
   ]
 }
